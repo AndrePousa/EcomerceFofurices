@@ -1,6 +1,6 @@
 # EcomerceFofurices
 
-**O site consiste em ser uma loja virtual**
+**Site de exercicio com HTML,CSS,Javascript**
 ***
 
 *É possivel efetuar acrescimo ao carrinho de compras*.
